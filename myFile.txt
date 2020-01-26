@@ -1,0 +1,3 @@
+Hello, I am writing a line to my file.
+Here is another line.
+Here is a string.Here is another string.
